@@ -4,7 +4,7 @@ SEOTitle: Jackson Blog | Data Analysis | Backend
 header-img: img/post-bg-desk.jpg
 email: firzhzs@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY Blog, 博客, Jacksonzheng, data analysis, python, backend"
+keyword: "JZ Blog, 博客, Jacksonzheng, data analysis, python, backend"
 url: "https://jacksonzheng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/JacksonZheng/jacksonzheng.github.io.git" # you code repository
